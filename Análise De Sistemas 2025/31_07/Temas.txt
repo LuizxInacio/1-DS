@@ -1,0 +1,20 @@
+1-Sistema de gestão de bibliotecas para bibliotecas especializadas em áreas específicas, como arte contemporânea ou história da medicina.
+2-Plataforma de gerenciamento de eventos esportivos para modalidades menos populares, como escalada ou esgrima.
+3-Sistema de gestão de consultas médicas para clínicas de medicina alternativa, como acupuntura ou homeopatia.
+4-Software de gestão de estoque e vendas para lojas de produtos específicos, como instrumentos musicais ou produtos orgânicos.
+5-Aplicativo de planejamento de viagens para destinos de ecoturismo ou turismo de aventura.
+6-Plataforma de gerenciamento de doações para organizações sem fins lucrativos com foco em causas específicas, como conservação marinha ou educação de crianças carentes.
+7-Sistema de gerenciamento de projetos para estúdios de design de jogos indie.
+8-Software de monitoramento e análise de culturas agrícolas para agricultura de precisão em culturas específicas, como uvas para vinho ou café gourmet.
+9-Aplicativo de controle de qualidade para fabricantes de produtos artesanais, como queijos ou cervejas especiais.
+10-Plataforma de educação online para cursos de idiomas menos comuns, como mandarim ou árabe.
+11-Sistema de gestão de pacientes para clínicas veterinárias especializadas em animais exóticos, como aves tropicais ou répteis.
+12-Software de gestão de frotas para empresas de transporte de bicicletas compartilhadas.
+13-Aplicativo de realidade virtual para treinamento de mergulho em cavernas.
+14-Plataforma de análise de dados para equipes de pesquisa em áreas científicas específicas, como oceanografia profunda ou astrobiologia.
+15-Sistema de gestão de reservas para pousadas ecológicas em áreas de preservação ambiental.
+16-Software de controle de qualidade para fabricantes de produtos cosméticos naturais.
+17-Aplicativo de monitoramento de saúde e bem-estar para praticantes de esportes de aventura, como alpinismo ou surfe.
+18-Plataforma de ensino online para artes marciais menos populares, como aikido ou capoeira.
+19-Sistema de gerenciamento de conteúdo para museus especializados em áreas específicas da história, como a era vitoriana ou a Revolução Industrial.
+20-Software de planejamento financeiro para freelancers em áreas criativas, como escritores de ficção científica ou artistas de quadrinhos.

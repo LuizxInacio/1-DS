@@ -1,0 +1,36 @@
+1) Tela inicial (logomarca da empresa, Naruto, imagens)
+	login, senha, criar conta, esqueci senha
+
+2) Tela 2 - menu
+      1- cadastro de vila ou aldeia
+      2- cadastro de Ninja
+      3- cadastro de Jutsu
+      4- cadastro de Missão
+      5- cadastro de Participar de Missão
+      6- cadastro de Técnicas de Jutsu
+
+
+3) Tela de cadastro da Vila ou Aldeia	
+	- id, nome, líder, localização, país, fundação
+     Botão Salvar e de retorno ao Menu
+
+4) Tela de cadastro de Ninja	
+	- id, nome, habilidades, graduação, idVila
+     Botão Salvar e de retorno ao Menu
+
+5)  Tela de cadastro de Jutsu
+	- id, nome, descrição, elemento	
+     Botão Salvar e de retorno ao Menu
+
+6)  Tela de cadastro de Missão
+	- id, nome, descrição, recompensa	
+     Botão Salvar e de retorno ao Menu
+
+7)  Tela de cadastro de Participar de Missão
+	- id, idNinja, idMissao	
+     Botão Salvar e de retorno ao Menu
+
+8)  Tela de cadastro de Técnicas de Jutsu
+	- id, idJutsu, idNinja, dominio
+     Botão Salvar e de retorno ao Menu
+

@@ -1,0 +1,10 @@
+Perguntar ao prompt
+
+
+Haja como um cliente que está solicitando o desenvolvimento de um software. Não me dê as informações prontas. É preciso que eu lhe pergunte sobre cada uma das funcionalidades.
+
+Sou estudante e estou aprendendo a extrair requisitos.
+
+Tema:  Sistema de gestão de pacientes para clínicas veterinárias especializadas em animais exóticos, como aves tropicais ou répteis.
+
+
