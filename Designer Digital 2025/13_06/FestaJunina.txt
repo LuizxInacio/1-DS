@@ -1,0 +1,3 @@
+- Fazer um panfleto com tema de festa junina.
+- tem  que  ter as informações necessárias (como data,  local, endereço e logo do badran)
+- tem que ter uma imagem referente ao tema.
