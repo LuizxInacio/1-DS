@@ -1,0 +1,9 @@
+1- Todas as permissões para todos
+depois de ter criado o arquivo (touch)
+Chmod 777 arquivo
+
+2- Ler e alterar para todos 
+chmod 666 arquivo
+
+3- Incluir para o dono permissão de execução
+chmod u+x arquivo 

@@ -1,0 +1,10 @@
+1 - Abrir ARQUIVOS (GERENCIADOR DE ARQUIVOS DO LINUX, NEMO) e dentro da pasta do usuário criar uma pasta 1mtecDS2025
+2 -  Abrir o LibreOffice Calc e criar uma planilha simples que some três números (utilize a formula =soma(intervalo), salve a planilha na pasta 1mtecDS2025, salve a planilha com o nome EXERCÍCIO em seguida feche o programa
+3 - Abrir novamente o programa ARQUIVOS e alterar o nome da planilha para Exerc1
+4 - Criar uma cópia desse arquivo com o nome Exerc2
+5 - Recortar essa cópia para a raiz /
+6 - Criar dentro da pasta 1mtecDS2025 um arquivo de texto com o nome anotações, criar 10 cópias dele (anotacoes1, anotacoes2, anotacoes3, etc)
+7 - Enviar as cópias ímpares para a lixeira
+8 - Apagar a cópia5
+9 - Abrir a lixeira  e esvaziar
+10 - Enviar anotacoes2 para a lixeira e depois recuperar

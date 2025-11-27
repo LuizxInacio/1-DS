@@ -1,0 +1,13 @@
+Reposta da atividade 13/08/25
+
+1-  ls –la > fundamentos
+
+2- date >> fundamentos
+
+3- echo “Olá Mundo” > fundamentos
+
+4- cat < fundamentos
+
+5- ls –la | more
+
+6-pwd | tee teste
