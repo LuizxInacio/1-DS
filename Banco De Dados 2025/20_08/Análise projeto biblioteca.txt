@@ -1,0 +1,17 @@
+Análise Projeto Biblioteca
+
+1) Tb_Autor
+2) Tb_Autor_Livro: tabela gerada em relação N:N -> Autor e Livro 
+3) Tb_Categoria: relaciona com Tb_Livro 1:N
+4) Tb_Livro: recebe as chaves estrangeiras de Categoria e Editora
+5) Tb_Exemplar: relaciona com Tb_Livro, recebe a chave estrangeira
+6) Tb_Editora: relaciona com Tb_Livro, Tb_Endereco, Tb_Cidade, Tb_Bairro
+7) Tb_Reserva: relaciona com Tb_Livro, Tb_Funcionario, Tb_Cliente, Tb_ExemplarEmprestimo
+8) Tb_Cargo: relaciona com Tb_Funcionario
+9) Tb_Funcionario: Tb_Cargo, Tb_Bairro, Tb_Endereco, Tb_CidadeTb_Funcionario
+10) Tb_Bairro: relaciona com Tb_Funcionario, Tb_Cliente, Tb_Editora
+11) Tb_Cidade: relaciona com Tb_Funcionario, Tb_Cliente, Tb_Editora
+12) Tb_Enreco: relaciona com Tb_Funcionario, Tb_Cliente, Tb_Editora
+13) Tb_Cliente: relaciona com Tb_Bairro, Tb_Cidade, Tb_Endereco
+14) Tb_Emprestimo: Tb_Funcionario, Tb_Cliente
+15) Tb_Exemplar_Emprestimo: Tb_Emprestimo, Tb_Reeserva, Tb_Exemplar

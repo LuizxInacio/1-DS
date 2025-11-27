@@ -1,0 +1,57 @@
+CREATE TABLE Livro (
+	ID_livro 		INT PRIMARY KEY,
+	Editora 		Varchar (25),
+	Ano_Publicação 	Inteiro,
+	Genero 			Varchar (30),
+	Titulo 			Varchar (50),
+	Autor 			Varchar (100)
+);
+
+CREATE TABLE Usuário (
+	ID_usuario 	INT PRIMARY KEY,
+	Nome 		Varchar (100),
+	Telefone 	Varchar (12),
+	Endereco 	Varchar (50),
+	Email 		Varchar (50)
+);
+
+CREATE TABLE Emprestimo (
+	ID_emprestimo 		INT PRIMARY KEY,
+	ID_usuario 			INT,
+	Data_Devolucao 		Date,
+	Data_Emprestimo 	Date
+);
+
+CREATE TABLE Exemplar (
+	ID_exemplar 	PRIMARY KEY,
+	ID_livro 		INT,
+	Codigo_Exemplar Inteiro,
+	Estado 			Varchar (15)
+);
+
+CREATE TABLE Ter (
+	ID_usuario 			INT,
+	ID_emprestimo 		INT,
+	FOREIGN KEY(ID_usuario) REFERENCES Usuário (ID_usuario),
+	FOREIGN KEY(ID_emprestimo) REFERENCES Emprestimo (ID_emprestimo),
+	FOREIGN KEY(ID_usuario) REFERENCES Emprestimo (ID_emprestimo)
+);
+
+	CREATE TABLE Ter (
+	ID_exemplar 		INT,
+	ID_livro 			INT,
+	ID_emprestimo 		INT,
+	ID_usuario 			INT,
+	FOREIGN KEY(ID_exemplar) REFERENCES Exemplar (ID_exemplar),
+	FOREIGN KEY(ID_livro) REFERENCES Exemplar (ID_exemplar),
+	FOREIGN KEY(ID_emprestimo) REFERENCES Emprestimo (ID_emprestimo),
+	FOREIGN KEY(ID_usuario) REFERENCES Emprestimo (ID_emprestimo)
+);
+
+CREATE TABLE Pertence (
+	ID_livro 			INT,
+	ID_exemplar 		INT,
+	FOREIGN KEY(ID_livro) REFERENCES Livro (ID_livro),
+	FOREIGN KEY(ID_exemplar) REFERENCES Exemplar (ID_exemplar)
+);
+
